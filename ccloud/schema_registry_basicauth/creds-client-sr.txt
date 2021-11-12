@@ -1,0 +1,4 @@
+admin-user: admin-password,admin
+dev-user: dev-password,developer
+user: user-password,user
+sr-user: sr-user-password,sr-user
